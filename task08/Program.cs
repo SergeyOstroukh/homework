@@ -22,6 +22,7 @@
 
 // }
 
+// выше сделал для не четных чисел
 
 Console.WriteLine("Введите целое число: ");
 int num = Convert.ToInt32(Console.ReadLine());
